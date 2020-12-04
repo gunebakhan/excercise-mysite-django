@@ -1,0 +1,1 @@
+# Im just learning django by myself and keeping the files for reviewing them.
